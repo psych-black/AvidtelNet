@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Avidtel Net</string>
+    <string name="home_splash_description">Imagen de fondo de la pantalla de inicio</string>
+    <string name="logo_description">Logo de la aplicación</string>
+</resources>
